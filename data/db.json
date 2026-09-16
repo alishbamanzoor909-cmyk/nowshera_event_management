@@ -1,0 +1,358 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "name": "Events Team Admin",
+      "email": "admin@nowsheraevents.com",
+      "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "role": "admin",
+      "createdAt": "2026-08-01T09:00:00.000Z"
+    },
+    {
+      "id": "usr-admin-alishba",
+      "name": "alishba",
+      "email": "alishbamanzoor372@gmail.com",
+      "passwordHash": "382bbb521cfe85fb5ae9cf8f292f09cbad62a2224dbb94048719362c0a93967d",
+      "role": "admin",
+      "createdAt": "2026-08-02T09:00:00.000Z"
+    },
+    {
+      "id": "usr-attendee-1",
+      "name": "Sarah Khan",
+      "email": "sarah@example.com",
+      "passwordHash": "70689a2ad304dfe5f4c316fd0ad7c63e0a4e4e806a997964751786e559546af5",
+      "role": "attendee",
+      "createdAt": "2026-08-05T10:00:00.000Z"
+    },
+    {
+      "id": "usr-attendee-2",
+      "name": "Tariq Mahmood",
+      "email": "tariq@example.com",
+      "passwordHash": "70689a2ad304dfe5f4c316fd0ad7c63e0a4e4e806a997964751786e559546af5",
+      "role": "attendee",
+      "createdAt": "2026-08-06T11:00:00.000Z"
+    },
+    {
+      "id": "usr-attendee-3",
+      "name": "Zainab Ali",
+      "email": "zainab@example.com",
+      "passwordHash": "70689a2ad304dfe5f4c316fd0ad7c63e0a4e4e806a997964751786e559546af5",
+      "role": "attendee",
+      "createdAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "usr-1789545977237-sfyu",
+      "name": "alishbaa",
+      "email": "alishbaz@gmail.com",
+      "passwordHash": "a9f9e42d10dee6632cb0819a7ba311fef2103e2578eebfa85366ae1c0fc49621",
+      "role": "attendee",
+      "createdAt": "2026-09-16T08:06:17.238Z"
+    },
+    {
+      "id": "usr-1789546956509-eze7",
+      "name": "hani",
+      "email": "hani@gmail.com",
+      "passwordHash": "b8dfab7dce334aea2ccd7263518f43c493cf325f248f1f5a84c7b05a209ce7c4",
+      "role": "attendee",
+      "createdAt": "2026-09-16T08:22:36.509Z"
+    },
+    {
+      "id": "usr-1789547211131-0m7k",
+      "name": "faiza",
+      "email": "faiza@gmail.com",
+      "passwordHash": "83ccc8a0fa7ba13909e422f87c6f34c4588f22000e1db45d9dfa3a895365d4d7",
+      "role": "attendee",
+      "createdAt": "2026-09-16T08:26:51.131Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-5",
+      "title": "Summer Code & Robotics Bootcamp Finale",
+      "description": "Showcase of projects built by student cohorts during the 8-week summer digital skills program.",
+      "date": "2026-08-20",
+      "time": "15:00",
+      "location": "Nowshera Central Library Hall",
+      "capacity": 30,
+      "status": "completed",
+      "createdAt": "2026-07-15T09:00:00.000Z",
+      "updatedAt": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "id": "evt-6",
+      "title": "Spring Outdoor Food & Cultural Festival",
+      "description": "Open-air festival showcasing regional culinary delights and traditional folklore performances.",
+      "date": "2026-09-01",
+      "time": "12:00",
+      "location": "Nowshera Riverside Public Park",
+      "capacity": 50,
+      "status": "cancelled",
+      "createdAt": "2026-08-10T10:00:00.000Z",
+      "updatedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "id": "evt-1789546844836-chye",
+      "title": "sprint planation 2026",
+      "description": "Join a community plantation activity to promote a greener and healthier Nowshera.",
+      "date": "2026-09-23",
+      "time": "10:00",
+      "location": "Nowshera Civic Center",
+      "capacity": 20,
+      "status": "draft",
+      "createdAt": "2026-09-16T08:20:44.836Z",
+      "updatedAt": "2026-09-16T08:20:44.836Z"
+    },
+    {
+      "id": "evt-7",
+      "title": "Nowshera Cultural & Heritage Festival",
+      "description": "A community festival celebrating the culture, history, traditional food, local artists, and heritage of Nowshera.",
+      "date": "2026-09-25",
+      "time": "10:00 AM",
+      "location": "Nowshera City",
+      "capacity": 30,
+      "status": "published",
+      "createdAt": "2026-09-10T08:00:00.000Z",
+      "updatedAt": "2026-09-10T08:00:00.000Z"
+    },
+    {
+      "id": "evt-8",
+      "title": "Youth Science & Technology Expo",
+      "description": "A technology and science exhibition where students and young innovators showcase science projects, robotics, technology ideas, and creative solutions.",
+      "date": "2026-10-02",
+      "time": "9:00 AM",
+      "location": "Nowshera",
+      "capacity": 25,
+      "status": "published",
+      "createdAt": "2026-09-11T09:00:00.000Z",
+      "updatedAt": "2026-09-11T09:00:00.000Z"
+    },
+    {
+      "id": "evt-9",
+      "title": "Kabul River Family & Sports Day",
+      "description": "A family-friendly outdoor event featuring recreational activities, sports competitions, games, and community activities near the Kabul River.",
+      "date": "2026-10-10",
+      "time": "8:00 AM",
+      "location": "Kabul River, Nowshera",
+      "capacity": 20,
+      "status": "published",
+      "createdAt": "2026-09-12T07:30:00.000Z",
+      "updatedAt": "2026-09-12T07:30:00.000Z"
+    },
+    {
+      "id": "evt-1",
+      "title": "Community Leadership & Youth Mentorship Workshop",
+      "description": "An intensive interactive workshop focusing on community organizing, youth development, and grassroots project execution in Nowshera.",
+      "date": "2026-10-15",
+      "time": "10:00",
+      "location": "Nowshera Civic Center, Hall A",
+      "capacity": 25,
+      "status": "published",
+      "createdAt": "2026-09-01T08:00:00.000Z",
+      "updatedAt": "2026-09-01T08:00:00.000Z"
+    },
+    {
+      "id": "evt-10",
+      "title": "Nowshera Community Plantation Drive",
+      "description": "A community environmental activity where volunteers plant trees and participate in environmental awareness activities.",
+      "date": "2026-10-18",
+      "time": "8:00 AM",
+      "location": "Jinnah Park, Nowshera",
+      "capacity": 150,
+      "status": "published",
+      "createdAt": "2026-09-13T08:00:00.000Z",
+      "updatedAt": "2026-09-13T08:00:00.000Z"
+    },
+    {
+      "id": "evt-2",
+      "title": "Digital Marketing for Local Businesses",
+      "description": "Learn effective digital marketing strategies, social media branding, and direct customer engagement to expand your local enterprise.",
+      "date": "2026-10-22",
+      "time": "14:00",
+      "location": "Nowshera Tech Innovation Hub, Lab 2",
+      "capacity": 15,
+      "status": "published",
+      "createdAt": "2026-09-02T09:00:00.000Z",
+      "updatedAt": "2026-09-02T09:00:00.000Z"
+    },
+    {
+      "id": "evt-11",
+      "title": "Nowshera Youth Skills & Career Workshop",
+      "description": "A practical workshop helping young people learn CV writing, communication, interview skills, freelancing basics, and career planning.",
+      "date": "2026-10-25",
+      "time": "10:00 AM",
+      "location": "Community Hall",
+      "capacity": 20,
+      "status": "published",
+      "createdAt": "2026-09-14T10:00:00.000Z",
+      "updatedAt": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "evt-3",
+      "title": "Hands-on Ceramic & Pottery Crafting Masterclass",
+      "description": "An intimate artisan workshop exploring traditional terracotta shaping, glazing, and kiln firing techniques. Limited seats.",
+      "date": "2026-11-05",
+      "time": "11:00",
+      "location": "Nowshera Artisan Guild Studio",
+      "capacity": 3,
+      "status": "published",
+      "createdAt": "2026-09-03T10:00:00.000Z",
+      "updatedAt": "2026-09-03T10:00:00.000Z"
+    },
+    {
+      "id": "evt-4",
+      "title": "Annual Nowshera Tech & Entrepreneurship Summit 2026",
+      "description": "Flagship summit featuring keynote panels, startup pitches, and regional venture networking. Currently in agenda preparation.",
+      "date": "2026-12-01",
+      "time": "09:30",
+      "location": "Grand Convention Auditorium, Main Blvd",
+      "capacity": 100,
+      "status": "draft",
+      "createdAt": "2026-09-05T12:00:00.000Z",
+      "updatedAt": "2026-09-05T12:00:00.000Z"
+    }
+  ],
+  "registrations": [
+    {
+      "id": "reg-1",
+      "eventId": "evt-1",
+      "userId": "usr-attendee-1",
+      "userName": "Sarah Khan",
+      "userEmail": "sarah@example.com",
+      "status": "registered",
+      "registeredAt": "2026-09-10T14:30:00.000Z"
+    },
+    {
+      "id": "reg-2",
+      "eventId": "evt-1",
+      "userId": "usr-attendee-2",
+      "userName": "Tariq Mahmood",
+      "userEmail": "tariq@example.com",
+      "status": "registered",
+      "registeredAt": "2026-09-11T09:15:00.000Z"
+    },
+    {
+      "id": "reg-3",
+      "eventId": "evt-3",
+      "userId": "usr-attendee-1",
+      "userName": "Sarah Khan",
+      "userEmail": "sarah@example.com",
+      "status": "registered",
+      "registeredAt": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "id": "reg-4",
+      "eventId": "evt-3",
+      "userId": "usr-attendee-2",
+      "userName": "Tariq Mahmood",
+      "userEmail": "tariq@example.com",
+      "status": "registered",
+      "registeredAt": "2026-09-12T11:20:00.000Z"
+    },
+    {
+      "id": "reg-5",
+      "eventId": "evt-3",
+      "userId": "usr-attendee-3",
+      "userName": "Zainab Ali",
+      "userEmail": "zainab@example.com",
+      "status": "registered",
+      "registeredAt": "2026-09-12T13:45:00.000Z"
+    },
+    {
+      "id": "test-reg-1789543101741-1",
+      "eventId": "evt-2",
+      "userId": "usr-attendee-3",
+      "userName": "Zainab Ali",
+      "userEmail": "zainab@example.com",
+      "status": "registered",
+      "registeredAt": "2026-09-16T07:18:21.741Z"
+    },
+    {
+      "id": "reg-1789545990629-oo7o",
+      "eventId": "evt-7",
+      "userId": "usr-1789545977237-sfyu",
+      "userName": "alishbaa",
+      "userEmail": "alishbaz@gmail.com",
+      "status": "cancelled",
+      "registeredAt": "2026-09-16T08:06:30.629Z",
+      "cancelledAt": "2026-09-16T08:08:46.816Z"
+    },
+    {
+      "id": "reg-1789546117209-ah5p",
+      "eventId": "evt-8",
+      "userId": "usr-1789545977237-sfyu",
+      "userName": "alishbaa",
+      "userEmail": "alishbaz@gmail.com",
+      "status": "registered",
+      "registeredAt": "2026-09-16T08:08:37.209Z"
+    },
+    {
+      "id": "reg-1789546314165-abfs",
+      "eventId": "evt-7",
+      "userId": "usr-1789545977237-sfyu",
+      "userName": "alishbaa",
+      "userEmail": "alishbaz@gmail.com",
+      "status": "registered",
+      "registeredAt": "2026-09-16T08:11:54.165Z"
+    },
+    {
+      "id": "reg-1789546966996-whsl",
+      "eventId": "evt-9",
+      "userId": "usr-1789546956509-eze7",
+      "userName": "hani",
+      "userEmail": "hani@gmail.com",
+      "status": "cancelled",
+      "registeredAt": "2026-09-16T08:22:46.996Z",
+      "cancelledAt": "2026-09-16T08:23:08.189Z"
+    },
+    {
+      "id": "reg-1789546979282-wl57",
+      "eventId": "evt-8",
+      "userId": "usr-1789546956509-eze7",
+      "userName": "hani",
+      "userEmail": "hani@gmail.com",
+      "status": "cancelled",
+      "registeredAt": "2026-09-16T08:22:59.282Z",
+      "cancelledAt": "2026-09-16T08:23:14.203Z"
+    },
+    {
+      "id": "reg-1789547218368-bt40",
+      "eventId": "evt-8",
+      "userId": "usr-1789547211131-0m7k",
+      "userName": "faiza",
+      "userEmail": "faiza@gmail.com",
+      "status": "registered",
+      "registeredAt": "2026-09-16T08:26:58.368Z"
+    },
+    {
+      "id": "reg-1789547238674-9xpo",
+      "eventId": "evt-9",
+      "userId": "usr-1789547211131-0m7k",
+      "userName": "faiza",
+      "userEmail": "faiza@gmail.com",
+      "status": "registered",
+      "registeredAt": "2026-09-16T08:27:18.674Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "2e3097ea5469a1a2e8873951bcabb714c9cc9907f3ea590cbd7f45ce90645d91",
+      "userId": "usr-attendee-1",
+      "createdAt": "2026-09-16T07:11:46.343Z"
+    },
+    {
+      "token": "81f4c3141c3e2818a862ab0df7d7249cf57f54bea97cc6f47f8a22c7ee96cc7b",
+      "userId": "usr-admin-alishba",
+      "createdAt": "2026-09-16T07:23:46.875Z"
+    },
+    {
+      "token": "ae9b0e1c2a9e8f9bc885bc85c60622031c68ebec078b400e78dbd9fbb3df2a3f",
+      "userId": "usr-attendee-1",
+      "createdAt": "2026-09-16T07:26:51.047Z"
+    },
+    {
+      "token": "96b20b9256e9c0148826124162764bb5369cf87d1eec77a9d4cb3bbe839d8062",
+      "userId": "usr-1789547211131-0m7k",
+      "createdAt": "2026-09-16T08:26:51.131Z"
+    }
+  ]
+}

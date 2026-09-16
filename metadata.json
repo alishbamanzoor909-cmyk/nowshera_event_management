@@ -1,0 +1,6 @@
+{
+  "name": "Nowshera Events - Event Registration & Management System",
+  "description": "Event registration and operations management platform for Nowshera Events Co., featuring attendee booking, real-time capacity control, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
